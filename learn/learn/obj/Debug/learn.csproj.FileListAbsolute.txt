@@ -1,0 +1,7 @@
+J:\C#工程\learn\learn\bin\Debug\learn.exe.config
+J:\C#工程\learn\learn\bin\Debug\learn.exe
+J:\C#工程\learn\learn\bin\Debug\learn.pdb
+J:\C#工程\learn\learn\obj\Debug\learn.csproj.AssemblyReference.cache
+J:\C#工程\learn\learn\obj\Debug\learn.csproj.CoreCompileInputs.cache
+J:\C#工程\learn\learn\obj\Debug\learn.exe
+J:\C#工程\learn\learn\obj\Debug\learn.pdb
