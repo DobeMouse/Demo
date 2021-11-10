@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Init1" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAKQAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\fba\pokemon\1\Init1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XmlHelper" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Resources\Skill\XmlHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterStatus" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQIA=</HashCode>
+      <FileName>Assets\Script\CharacterStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResourceHelper" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAIAAAAAAgAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Common\ResourceHelp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayeController" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAEACAAAAAAYAAAAAAAACAAAQAAQCAAAAAAAAE=</HashCode>
+      <FileName>Assets\Script\PlayeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnimalParents" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACADAAAAAAAAKAAAAAAAQAAACAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\pokemonsystem\AnimalParents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PokemonLibrary" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\pokemonsystem\PokemonLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SectorAttackSelector" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Skillsystem\AttackSelector\SectorAttackSelector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DeployerConfigFactory" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAABQAAAAAA=</HashCode>
+      <FileName>Assets\Script\Skillsystem\Deployer\DeployerConfigFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeleeSkillDeployer" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Skillsystem\Deployer\MeleeSkillDeployer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillDeployer" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAQQACAAAAAgAAAAIAAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Skillsystem\Deployer\SkillDeployer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillData" Collapsed="true">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAIABAAiAAEJACIAKQEAAEAARAAQkJAAACAAAA=</HashCode>
+      <FileName>Assets\Script\Skillsystem\SkillData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkillManager" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABAAACAAAAAAAAAAAAAEAAAACAAACAAAAAAEAEA=</HashCode>
+      <FileName>Assets\Script\Skillsystem\SkillManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dao" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Script\Skillsystem\SkillScript\Dao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JoyStickScript" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAIAAAAACAAAAAAAABAEIAAAAAAACQAAAAAAQAAQAA=</HashCode>
+      <FileName>Assets\Script\UIsystem\JoyStickScript.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="IAttackSelector">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Skillsystem\AttackSelector\IAttackSelector.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IImpact">
+    <Position X="4.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Skillsystem\Impact\IImpact.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Property">
+    <Position X="3" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\pokemonsystem\AnimalParents.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SkillAttackType">
+    <Position X="6.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Skillsystem\SkillData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SelectorType">
+    <Position X="4.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Skillsystem\SkillData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
